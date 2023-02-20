@@ -128,7 +128,7 @@
       "core/cover": {
         "color": {
           "duotone": [],
-          "customDuotone": false
+          "customDuotone": true
         }
       }
     },
